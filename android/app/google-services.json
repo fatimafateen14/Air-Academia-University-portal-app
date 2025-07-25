@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63138229454",
+    "project_id": "air-university-9007c",
+    "storage_bucket": "air-university-9007c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63138229454:android:9f947c248f74a3511ab49f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB5tiqxzPJ75qzjumJq4OhGL_XCMoDmKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
